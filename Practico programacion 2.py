@@ -1,3 +1,4 @@
+#paso por acá a dejar asentado que está excelente éste práctico, nada más !! 
 import random
 import datetime
 
